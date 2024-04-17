@@ -1,4 +1,4 @@
-![](./images/images/kubenomicon_cropped.png)
+![](./src/images/kubenomicon_cropped.png)
 
 
 # Check out The Kubenomicon

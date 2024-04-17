@@ -1,6 +1,10 @@
-# What is The Kubenomicon?
-![](../images/kubenomicon_cropped.png)
+![](./images/images/kubenomicon_cropped.png)
 
+
+# Check out The Kubenomicon
+- [The Kubenomicon](https://kubenomicon.com)
+
+# What is The Kubenomicon?
 The Kubenomicon was born of a desire to understand more about Kubernetes from an offensive perspective. I found many great resources to aid in my journey, but I quickly realized:
 1. I will never be able to solely document every offensive and defensive Kubernetes technique on my own.
 2. Things in the Kubernetes world [move really fast](https://kubernetes.io/releases/release/) and there are constantly new attack surfaces to explore. 

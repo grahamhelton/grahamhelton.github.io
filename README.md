@@ -1,1 +1,1 @@
-Hello traveler... This repository has been migrated to [github.com/kubenomicon/kubenomicon](github.com/kubenomicon/kubenomicon) 🐙
+Hello traveler... This repository has been migrated to [https://github.com/kubenomicon/kubenomicon](https://github.com/kubenomicon/kubenomicon) 🐙
